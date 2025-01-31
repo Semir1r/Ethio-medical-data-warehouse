@@ -1,1 +1,10 @@
-venv
+pycache/
+*.sql
+venv/
+.env 
+docs
+photos
+*.session
+*.csv
+*.session-journal
+yolov5
