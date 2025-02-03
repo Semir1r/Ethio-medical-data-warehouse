@@ -12,3 +12,45 @@
 2025-01-31 22:32:15,215 - INFO - Scrapping data...
 2025-01-31 22:32:15,223 - INFO - Connecting to 149.154.167.51:443/TcpFull...
 2025-01-31 22:32:17,176 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-01-31 22:32:30,233 - INFO - Phone migrated to 4
+2025-01-31 22:32:30,475 - INFO - Reconnecting to new data center 4
+2025-01-31 22:32:30,724 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-01-31 22:32:30,740 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-01-31 22:32:30,743 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-31 22:32:33,235 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-01-31 22:33:18,989 - INFO - Finished scraping @DoctorsET
+2025-01-31 22:33:24,924 - INFO - Finished scraping @lobelia4cosmetics
+2025-01-31 22:33:26,106 - INFO - Finished scraping @yetenaweg
+2025-01-31 22:33:27,098 - INFO - Finished scraping @EAHCI
+2025-01-31 22:33:28,487 - INFO - Finished scraping @CheMed123
+2025-01-31 22:33:28,487 - INFO - Listening for real-time messages...
+2025-02-01 01:39:54,643 - WARNING - Server closed the connection: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-02-01 01:39:54,801 - INFO - Connection closed while sending data
+2025-02-01 01:39:54,803 - INFO - Connection closed while receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-02-01 01:39:54,805 - INFO - Closing current connection to begin reconnect...
+2025-02-01 01:39:54,940 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-02-01 01:39:55,034 - INFO - <class 'ConnectionResetError'> during disconnect: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-02-01 01:39:55,036 - WARNING - Attempt 1 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.92', 443)
+2025-02-01 01:39:56,127 - WARNING - Attempt 2 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.92', 443)
+2025-02-01 01:39:57,136 - WARNING - Attempt 3 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.92', 443)
+2025-02-01 01:39:58,149 - WARNING - Attempt 4 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.92', 443)
+2025-02-01 01:39:59,154 - WARNING - Attempt 5 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.92', 443)
+2025-02-01 01:40:00,401 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-02-01 01:40:02,039 - INFO - Got difference for account updates
+2025-02-02 11:20:28,597 - WARNING - Server closed the connection: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-02-02 11:20:28,688 - INFO - Connection closed while sending data
+2025-02-02 11:20:28,737 - INFO - Connection closed while receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-02-02 11:20:28,741 - INFO - Closing current connection to begin reconnect...
+2025-02-02 11:20:28,778 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-02-02 11:20:28,830 - INFO - <class 'ConnectionResetError'> during disconnect: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-02-02 11:20:28,832 - WARNING - Attempt 1 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.92', 443)
+2025-02-02 11:20:29,891 - WARNING - Attempt 2 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.92', 443)
+2025-02-02 11:20:30,922 - WARNING - Attempt 3 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.92', 443)
+2025-02-02 11:20:31,931 - WARNING - Attempt 4 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.92', 443)
+2025-02-02 11:20:32,937 - WARNING - Attempt 5 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.92', 443)
+2025-02-02 11:20:33,958 - WARNING - Attempt 6 at connecting failed: OSError: [Errno 10051] Connect call failed ('149.154.167.92', 443)
+2025-02-02 11:20:34,968 - INFO - Failed reconnection attempt 1 with ConnectionError
+2025-02-02 11:20:35,981 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-02-02 11:20:36,214 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-02-02 11:20:37,118 - INFO - Cannot get difference since the account is not logged in: AuthKeyUnregisteredError
+2025-02-02 11:20:38,158 - WARNING - Cannot get difference for channel 1237624984 since the account is not logged in: AuthKeyUnregisteredError
