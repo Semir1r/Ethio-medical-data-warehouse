@@ -1,0 +1,11 @@
+your_profile:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: localhost
+      user: semir
+      password: admin
+      dbname: datawarehouse
+      schema: dev
+      threads: 1
