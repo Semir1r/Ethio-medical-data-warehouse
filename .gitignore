@@ -8,3 +8,6 @@ photos
 *.csv
 *.session-journal
 yolov5
+.venv
+*.log
+
